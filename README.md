@@ -21,7 +21,7 @@ You can use given pretrained without training
 
 Open CLI, excute
 ```
-python test.py --stage "Refine" # This will give the complete result from Stage 1 - Stage 4.
+python test.py --stage "Stage3" # This will give the complete result from Stage 1 - Stage 4.
 ```
 Or run to get all test set's results
 ```
