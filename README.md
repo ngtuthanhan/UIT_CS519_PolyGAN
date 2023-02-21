@@ -23,4 +23,7 @@ Open CLI, excute
 ```
 python test.py --stage "Refine" # This will give the complete result from Stage 1 - Stage 4.
 ```
-
+Or run this,
+```
+python run.py
+```
